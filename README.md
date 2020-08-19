@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**DorianBDev/DorianBDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Currently studying at **ESIEA** (Graduate Engineering School in Digital Sciences and Technologies), I am passionate about **computer science** and **cybersecurity research**. You will find on my Github account all my programming projects, from a C++ hardware reverse engineering software to a C++ library implementing different neural networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+
+Learn more about me:
+
+- [🚀 Website](https://dorianb.tech/)
+- [📣 LinkedIn](https://www.linkedin.com/in/dorian-bachelot/?locale=en_US)
+- [🔍 Resume](https://dorianb.tech/CV_eng.pdf)
+
+## Contact
+
+Contact me [here](mailto:dorianb.dev@netc.fr).
