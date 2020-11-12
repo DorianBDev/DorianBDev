@@ -8,9 +8,9 @@ Currently studying at **ESIEA** (Graduate Engineering School in Digital Sciences
 
 Learn more about me:
 
-- [🚀 Website](https://dorianb.tech/)
+- [🚀 Website](https://dorianb.net/)
 - [📣 LinkedIn](https://www.linkedin.com/in/dorian-bachelot/?locale=en_US)
-- [🔍 Resume](https://dorianb.tech/CV_eng.pdf)
+- [🔍 Resume](https://dorianb.net/CV_eng.pdf)
 
 ## Contact
 
