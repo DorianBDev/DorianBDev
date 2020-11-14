@@ -14,4 +14,4 @@ Learn more about me:
 
 ## Contact
 
-Contact me [here](mailto:dorianb.dev@netc.fr).
+Contact me [here](mailto:dev@dorianb.net).
