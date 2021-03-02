@@ -15,3 +15,9 @@ Learn more about me:
 ## Contact
 
 Contact me [here](mailto:dev@dorianb.net).
+
+<br>
+<p align="center">
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/dorianbdev/count.svg"/>
+</p>
